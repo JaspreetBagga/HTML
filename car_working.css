@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+#back{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 450px;
+    width: auto;
+}
+.btn{
+    background-color: yellow;
+    font-size: 30px;
+    margin: 10px;   
+}
+#dbtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#road{
+    background: url(road.jpg);
+}
+#img{
+    width: 150px;
+}
